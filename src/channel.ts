@@ -738,7 +738,7 @@ async function handleDingTalkMessage(params: HandleDingTalkMessageParams): Promi
 
   if (useCardMode) {
     // Try to reuse an existing active AI card for this target, if available
-    const targetKey = `${accountId}:${conversationId}`;
+    const targetKey = `${accountId}:${to}`;
     const existingCardId = activeCardsByTarget.get(targetKey);
     const existingCard = existingCardId ? aiCardInstances.get(existingCardId) : undefined;
 
